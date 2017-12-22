@@ -19,9 +19,9 @@ public class Facebook {
 
 	public static final String FIRST_NAME = "SomeFirstName";
 	public static final String LAST_NAME = "SomeLastName";
-	public static final String EMAIL = "someemail@someemail.com";
-	public static final String EMAIL_CONFIRMATION = "someemail@someemail.com";
-	public static final String PASSWORD = "somepassword";
+	public static final String EMAIL = "SomeEmail@SomeEmail.com";
+	public static final String EMAIL_CONFIRMATION = "SomeEmail@SomeEmail.com";
+	public static final String PASSWORD = "SomePassword";
 	public static final String MONTH = "11";
 	public static final String DAY = "15";
 	public static final String YEAR = "2000";
