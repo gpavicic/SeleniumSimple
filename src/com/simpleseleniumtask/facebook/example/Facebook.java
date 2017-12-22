@@ -17,7 +17,7 @@ public class Facebook {
 	public static final String CSS_SELECTOR = "option";
 	public static final String VALUE = "value";
 
-	public static final String FIRST_NAME = "SomeName";
+	public static final String FIRST_NAME = "SomeFirstName";
 	public static final String LAST_NAME = "SomeLastName";
 	public static final String EMAIL = "someemail@someemail.com";
 	public static final String EMAIL_CONFIRMATION = "someemail@someemail.com";
